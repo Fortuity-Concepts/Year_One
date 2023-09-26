@@ -1,0 +1,34 @@
+What is Python?
+Python is a general purpose programming language often used for machine learning and data analysis.
+Python was created by Guido van Rossum and was released February 20th 1991.
+In 1999 the zen of python was released with the language being so influential. The zen of python is
+a guide for using python in the best way.
+Python is a very simple to read language and can handle a multitude of tasks such as:
+Desktop apps
+Data Science
+AI
+MAchine LEarning
+System admin
+Data analytics
+Game development and much more
+
+
+Python files are saved using the .py extension. These files are often referred to as modules.
+
+
+Python is a interpreted language and is executed as follows
+
+
+Source Code ==> Compiler ==> Bytecode (input, library modules) ==> Python Virtual Machine == Code is executed
+
+
+Some more info about python
+Easily compatible
+Fewer lines of code
+Fast development
+Extensive libraries
+Built-in data structure
+High-level language
+Object oriented
+Cross-Platform
+
