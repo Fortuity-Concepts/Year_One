@@ -1,0 +1,12 @@
+
+0 - dim (like destiny dim)
+1 - un (oou-n)
+2 - dau (sounds like die)
+3 - tri (sounds like tree)
+4 - pedwar (sounds like its spelled)
+5 - pump (sounds like pimp)
+6 - chwech (kw-e-k)
+7 - saith (sounds like syth)
+8 - wyth (oi-th)
+9 - naw (now)
+10 - deg (sounds like its spelled)
